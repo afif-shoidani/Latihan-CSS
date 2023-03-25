@@ -14,8 +14,7 @@ body {
 }
 
 .sidebar {
-  width: 400px;
-
+  width: 300px;
   float: left;
 }
 
@@ -60,17 +59,12 @@ body {
   text-decoration: none;
 }
 
-.blog-content {
-  float: left;
-  max-width: 200px;
+.blog-single {
+  width: 600px;
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 20px;
-}
-.blog-content img {
-  width: 150px;
-  height: 180px;
-  object-fit: cover;
+  float: right;
 }
 
 .recent-article {
